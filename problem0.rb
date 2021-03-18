@@ -18,9 +18,9 @@
 
 def your_round(num)
   if num >= 1.5
-  	2
+    2
   elsif num <= 1.4
-  	1
+    1
   end
 end
 
